@@ -1,0 +1,16 @@
+All R are 1206 SMD
+All C are 1206 SMD
+SW1 to SW5: SW_SPST_B3S-1000
+SW6: SW_SPDT_PCM12
+GPS: No working if L80, works with any serial UARL GPS module (you have to adapt)
+MCP73831 SOT23 : https://www.aliexpress.com/item/100pcs-lot-MCP73831T-2ACI-OT-MCP73831-SOT23-5/32843386056.html?spm=a2g0s.9042311.0.0.27424c4dl0CPby
+MBRA140 ZENET (SMD): https://www.aliexpress.com/item/100PCS-MBRA140T3G-MBRA140-B14-SMA-DO-214AC/32585641385.html?spm=a2g0s.9042311.0.0.27424c4dM5qVnq
+Buzzer: 3.3V version - https://www.aliexpress.com/item/10pcs-lot-3V-5V-ultra-small-SMD-active-patch-buzzer-9-6mm-9-6mm-5mm-square/32783296014.html?spm=a2g0s.9042311.0.0.27424c4dXc6HDb
+MCP1640: SOT23-6
+U8: LED WS2812B: https://www.aliexpress.com/item/WS2812B-LED-Chip-10-1000pcs-5050-RGB-SMD-Black-White-version-WS2812-Individually-Addressable-Digital-5V/32826552621.html?spm=a2g0s.9042311.0.0.27424c4ddeVzpH
+U4: CR2450  Socket  https://www.aliexpress.com/item/UXCELL-10-Pcs-Cr2450-Lir2450-Coin-Button-Battery-Holder-Socket-Case/32793259889.html?spm=a2g0s.9042311.0.0.27424c4de7VmIW
+U2: TJCTM24028-SPI SPI 2.8 touche screen https://www.aliexpress.com/item/1pcs-J34-F85-240x320-2-8-SPI-TFT-LCD-Touch-Panel-Serial-Port-Module-with-PCB/32795636902.html?spm=2114.search0104.3.9.2db24b1atc0xyv&ws_ab_test=searchweb0_0,searchweb201602_4_10152_10151_10065_10344_10068_5722815_10342_10343_10340_5722915_10341_5722615_10696_10084_10083_10618_10305_10304_10307_10306_10302_5722715_5711215_10059_308_100031_10103_10624_10623_10622_5711315_5722515_10621_10620,searchweb201603_55,ppcSwitch_5&algo_expid=da7cdc38-c811-4286-a3d1-5da839bec363-1&algo_pvid=da7cdc38-c811-4286-a3d1-5da839bec363&priceBeautifyAB=0
+U3: RFM95W : https://www.aliexpress.com/item/Free-shipping-10PCS-RFM95-RFM95W-868Mhz-915Mhz-LoRaTM-Wireless-Transceiver/32820691011.html?spm=a2g0s.9042311.0.0.27424c4dwzQvfp
+ANT1: SMA Connector: https://www.aliexpress.com/item/20pcs-SMA-female-RF-connector-SMA-KE-1-6mm-PCB-Mount-and-SMA-Female-Plug-Straight/32686052414.html?spm=a2g0s.9042311.0.0.27424c4dpV1YxA
+U1: ESP32 DEV BOard: https://www.aliexpress.com/item/ESP-32-ESP-32S-Development-Board-WiFi-Bluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP32-Board/32844181786.html?spm=2114.search0104.3.44.7d674071MNVOoE&ws_ab_test=searchweb0_0,searchweb201602_4_10152_10151_10065_10344_10068_5722815_10342_10343_10340_5722915_10341_5722615_10696_10084_10083_10618_10305_10304_10307_10306_10302_5722715_5711215_10059_308_100031_10103_10624_10623_10622_5711315_5722515_10621_10620-10620normal#cfs,searchweb201603_55,ppcSwitch_5&algo_expid=fac20f7f-eef7-49e9-92e7-56f136b35dc1-6&algo_pvid=fac20f7f-eef7-49e9-92e7-56f136b35dc1&priceBeautifyAB=0
+
